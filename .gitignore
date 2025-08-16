@@ -3,3 +3,5 @@ __pycache__/
 *.pth
 *.pt
 dataset/
+venv/
+*.zip
