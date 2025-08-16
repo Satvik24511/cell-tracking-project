@@ -51,7 +51,6 @@ This phase focuses on identifying and segmenting each individual cell in every f
 
 * **Loss & Metrics:** Mean Average Precision (mAP) was used to evaluate performance, providing a comprehensive score for the accuracy of both bounding boxes and segmentation masks.
 
-**Visual: A single frame with predicted masks and bounding boxes**
 ![Predicted mask example](outputs/masks/1.png)
 
 ---
@@ -90,7 +89,6 @@ This is the core of the project, where the segmentation outputs are linked toget
 ## 5. Results & Discussion
 The final project successfully demonstrates an end-to-end pipeline for cell tracking. The model achieved a high validation mAP of **0.9291**, indicating highly accurate segmentation. The tracking algorithm and subsequent analysis provide a quantitative understanding of cell behavior.
 
-**Visual: Final dual-panel visualization showing the original video and the tracked path of a single cell**
 ![Final video](outputs/videos/cell_tracking_animation_16.gif)
 ![Final video](outputs/videos/cell_tracking_animation_9.gif)
 ![Final video](outputs/videos/cell_tracking_animation_18.gif)
