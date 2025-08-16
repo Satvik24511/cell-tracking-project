@@ -1,4 +1,4 @@
-# 🔬 CellFlow: Deep Learning-based Cell Tracking and Analysis 🧬
+# 🔬 Deep Learning-based Cell Tracking and Analysis 🧬
 
 ## Table of Contents
 * [1. Project Overview](#1-project-overview)
@@ -18,7 +18,7 @@
 ---
 
 ## 1. Project Overview
-This project, **CellFlow**, presents an end-to-end pipeline for **automated cell segmentation, tracking, and behavioral analysis** from time-lapse fluorescent microscopy images. It leverages a fine-tuned Mask R-CNN model to perform instance segmentation on every frame, followed by a custom post-processing algorithm to track individual cells and quantify their behavior. The pipeline culminates in a powerful dual-panel visualization that tells the story of a single cell's journey.
+This project, presents an end-to-end pipeline for **automated cell segmentation, tracking, and behavioral analysis** from time-lapse fluorescent microscopy images. It leverages a fine-tuned Mask R-CNN model to perform instance segmentation on every frame, followed by a custom post-processing algorithm to track individual cells and quantify their behavior. The pipeline culminates in a powerful dual-panel visualization that tells the story of a single cell's journey.
 
 ---
 
